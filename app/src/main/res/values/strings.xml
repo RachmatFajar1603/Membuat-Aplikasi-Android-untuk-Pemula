@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="transport_names">Nama Transportasi</string>
+    <string name="transport_descriptions">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Angkot Jaklingko</item>
+        <item>Bajaj Jaklingko</item>
+        <item>Gojek</item>
+        <item>Kereta Bandara Soekarno-Hatta</item>
+        <item>Kereta Api Komuter (KRL)</item>
+        <item>LRT</item>
+        <item>MRT</item>
+        <item>Taksi</item>
+        <item>Transjakarta</item>
+        <item>Whoosh (KCIC)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Angkot Jaklingko adalah angkutan umum yang beroperasi di wilayah Jakarta. Angkot ini beroperasi di wilayah Jakarta Selatan dan Jakarta Timur.</item>
+        <item>Bajaj Jaklingko adalah angkutan umum yang beroperasi di wilayah Jakarta. Bajaj ini beroperasi di wilayah Jakarta Selatan dan Jakarta Timur.</item>
+        <item>Gojek adalah perusahaan teknologi asal Indonesia yang melayani jasa pemesanan transportasi, pesan antar makanan, logistik, pembayaran, dan kebutuhan sehari-hari.</item>
+        <item>Kereta Bandara Soekarno-Hatta adalah kereta bandara yang melayani rute dari Bandara Soekarno-Hatta ke Stasiun Sudirman Baru dan sebaliknya.</item>
+        <item>Kereta Api Komuter (KRL) adalah layanan kereta komuter yang melayani rute di wilayah Jabodetabek.</item>
+        <item>LRT adalah layanan kereta ringan yang melayani rute dari Kelapa Gading hingga Velodrome.</item>
+        <item>MRT adalah layanan kereta bawah tanah yang melayani rute dari Lebak Bulus hingga Bundaran HI.</item>
+        <item>Taksi adalah layanan transportasi umum yang melayani rute sesuai dengan permintaan penumpang.</item>
+        <item>Transjakarta adalah layanan bus rapid transit yang melayani rute di wilayah Jakarta.</item>
+        <item>Whoosh (KCIC) adalah layanan kereta cepat yang melayani rute dari Jakarta hingga Bandung.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/angkot</item>
+        <item>@drawable/bajaj</item>
+        <item>@drawable/gojek</item>
+        <item>@drawable/bandara</item>
+        <item>@drawable/kereta</item>
+        <item>@drawable/lrt</item>
+        <item>@drawable/mrt</item>
+        <item>@drawable/taksi</item>
+        <item>@drawable/transjakarta</item>
+        <item>@drawable/whoosh</item>
+    </integer-array>
+
+    <string-array name="data_detail">
+        <item>Angkutan kota terintegrasi dengan Transjakarta, menawarkan tarif terjangkau (Rp 2.500 - Rp 5.000) dan melayani 10 rute di berbagai wilayah. Beroperasi dari jam 5 pagi hingga jam 10 malam.</item>
+        <item>Kendaraan roda tiga ikonik dengan tarif fleksibel (Rp 3.000 - Rp 10.000) tergantung jarak dan negosiasi. Tersedia di mana saja dan beroperasi 24 jam.</item>
+        <item>Aplikasi transportasi online yang menyediakan layanan ojek motor dan mobil. Tarifnya bervariasi (Rp 2.500 - Rp 25.000) tergantung jenis layanan, jarak, dan waktu pemesanan. Tersedia di seluruh wilayah Jakarta dan beroperasi 24 jam, menjadi pilihan praktis dan nyaman untuk bepergian.</item>
+        <item>Pilihan cepat dan nyaman untuk mencapai bandara, dengan tarif Rp 30.000 - Rp 100.000 tergantung kelas dan tujuan. Beroperasi 24 jam dengan kereta yang berangkat setiap 30 menit.</item>
+        <item>Solusi ekonomis untuk perjalanan Jabodetabek, dengan tarif Rp 3.000 - Rp 10.000. Tersedia 10 rute dan beroperasi dari jam 4 pagi hingga 12 malam.</item>
+        <item>Kereta api ringan yang melayani Jakarta Timur dan Utara, menawarkan tarif Rp 5.000 - Rp 10.000. Beroperasi dari jam 5 pagi hingga 10.30 malam.</item>
+        <item>Pilihan modern untuk mobilitas di pusat kota Jakarta, dengan tarif Rp 3.000 - Rp 14.000. Beroperasi 24 jam, memberikan akses mudah ke berbagai lokasi strategis.</item>
+        <item>Kendaraan roda empat yang nyaman dengan tarif bervariasi (Rp 7.000 - Rp 20.000 per km) tergantung tarif taksi dan jarak. Tersedia 24 jam dan dapat diakses di mana saja.</item>
+        <item>Bus rapid transit yang populer dengan tarif flat Rp 3.500 untuk seluruh koridor. Memiliki 13 koridor dan beroperasi 24 jam, menjadi pilihan andalan bagi banyak orang.</item>
+        <item>Skuter listrik modern yang bisa disewa untuk perjalanan jarak pendek. Tarifnya Rp 3.000 ditambah Rp 200 per menit, dan tersedia di beberapa area di Jakarta. Beroperasi 24 jam, namun ketersediaan skuter tergantung pada lokasi.</item>
+    </string-array>
+
+</resources>
